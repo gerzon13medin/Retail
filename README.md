@@ -11,16 +11,13 @@ Predecir las ventas que tendran tiendas Walmart con base a un numero de variable
 
 ### ¿Cuál es la propuesta para resolver esa necesidad o problema? 💡
 
-### Realizar un analisis exploratorio del dataset y visualizar aquellas variables que tengan una estrecha 
-### relacion con las ventas
+Realizar un analisis exploratorio del dataset y visualizar aquellas variables que tengan una estrecha 
+relacion con las ventas.
 
 ### ¿Cómo lo vas a hacer? 📋
 
-<!-- Añade aquí un checklist de tareas y el estado de tus avances, añade tus avances en otras
-	 carpetas y compartelos con el mundo en la sección de avances, no olvides actualizar esta lista
-	 constantemente para organizarte mejor.
-
-	 También te sugerimos el uso de Trello. --->
+Se realizará un analisis exploratorio para conocer las estructuras de los datos dentro del dataset
+para poder aplicar un modelo de regresión lineal.
 
 - [x] Elección de fuente de datos
 - [x] Definición de la estructura del proyecto
@@ -37,7 +34,7 @@ Agrega más tareas a este *checklist*.
 
      Una vez finalizado el proyecto te sugerimos añadir una nueva sección de Resultados. --->
 
-- [Fuente de datos](link)
+- [Fuente de datos](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
 - [Estructura del proyecto](link)
 - [Estructura de la base de datos](link)
 - [Primeras consultas](link)
