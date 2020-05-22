@@ -7,7 +7,7 @@
 
 ### ¿Cuál es la necesidad o problema a resolver? 🚀
 
-### Predecir las ventas que tendran tiendas Walmart con base a un numero de variables que podrian afectarlas.
+Predecir las ventas que tendran tiendas Walmart con base a un numero de variables que podrian afectarlas.
 
 ### ¿Cuál es la propuesta para resolver esa necesidad o problema? 💡
 
